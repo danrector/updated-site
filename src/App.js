@@ -30,6 +30,7 @@ class App extends Component {
             <li ><a target="_blank" href="https://soundcloud.com/drector1">Music</a></li>
             <li ><a target="_blank" href="https://twitter.com/danielkrector">Twitter</a></li>
             <li ><a target="_blank" href="https://www.instagram.com/drector1/">Instagram</a></li>
+            <li ><a target="_blank" href="https://github.com/drector1">Github</a></li>
             <li ><a href="mailto:rector.danielk@gmail.com?subject=Hello&body=Hi">Email</a></li>
           </ul>
         </div>
