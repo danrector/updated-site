@@ -25,6 +25,25 @@
 
 .App-footer {
   padding-top: 50vh;
+  padding-bottom: 20vh;
+}
+
+.About-me {
+  padding-left: 20vw;
+  padding-right: 20vw;
+}
+
+.About-me p {
+  padding-top: 10vh;
+  padding-bottom: 40vh;
+}
+
+.Projects-worked-on {
+  padding-top: 20vh;
+}
+
+.Projects-worked-on h3 {
+  padding-top: 10vh;
 }
 
 a {

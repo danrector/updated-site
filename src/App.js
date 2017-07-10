@@ -9,7 +9,20 @@ class App extends Component {
         <img src={logo8} className="App-logo" alt="logo" />
 
         <div className="App-body">
-          <h1>Projects I've worked on.</h1>
+          <div className="About-me">
+            <h1>About</h1>
+            <p>Daniel Rector is a programmer residing in East Tennessee.
+              He has worked on MEAN stack web apps.
+              Currently, he is building web apps with React.
+              He also dabbles in develpment for iOS.
+              When he isn't programming, Daniel likes to write and record music with his friends.</p>
+          </div>
+          <div className="Projects-worked-on">
+            <h1>Projects</h1>
+            <h3>
+              <a target="_blank" href="https://out-of-context-comics.herokuapp.com">Out of Context comics</a>
+            </h3>
+          </div>
         </div>
 
         <div className="App-footer">
