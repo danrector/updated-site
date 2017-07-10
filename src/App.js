@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import './App.css';
 import logo8 from './website-backgrounds/logo8.JPG';
+import color1 from './website-backgrounds/with-color/color1.jpg';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <img src={logo8} className="App-logo" alt="logo" />
+        <img src={color1} className="App-logo" alt="logo" />
 
         <div className="App-body">
           {/*

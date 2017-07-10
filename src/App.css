@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #ff7e69;
+  text-transform: uppercase;
 }
 
 .App-body {
@@ -36,6 +38,7 @@
 .About-me p {
   padding-top: 10vh;
   padding-bottom: 40vh;
+  font-size: 18px;
 }
 
 .Projects-worked-on {
@@ -43,7 +46,12 @@
 }
 
 .Projects-worked-on h3 {
-  padding-top: 10vh;
+  padding-top: 20vh;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 40px;
 }
 
 a {
