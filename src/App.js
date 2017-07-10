@@ -9,6 +9,12 @@ class App extends Component {
         <img src={logo8} className="App-logo" alt="logo" />
 
         <div className="App-body">
+          {/*
+            special thanks to Llew ( for logo design and general excellence),
+
+            check him out on Instagram->
+            https://www.instagram.com/llewminary/
+          */}
           <div className="About-me">
             <h1>About</h1>
             <p>Daniel Rector is a programmer residing in East Tennessee.
