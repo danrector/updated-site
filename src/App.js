@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import logo8 from './website-backgrounds/logo8.JPG';
 import color1 from './website-backgrounds/with-color/color1.jpg';
 
 class App extends Component {
