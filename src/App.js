@@ -22,6 +22,9 @@ class App extends Component {
             <h3>
               <a target="_blank" href="https://out-of-context-comics.herokuapp.com">Out of Context comics</a>
             </h3>
+            <h3>
+              <a target="_blank" href="https://brutality.herokuapp.com">Brutality</a>
+            </h3>
           </div>
         </div>
 
