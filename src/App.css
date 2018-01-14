@@ -2,10 +2,10 @@
   text-align: center;
   background-color: #ff7e69;
   text-transform: uppercase;
-  padding-top: 5vh;
-  padding-left: 5vw;
-  padding-right: 5vw;
-  padding-bottom: 5vh;
+  /* padding-top: 5vh; */
+  /* padding-left: 5vw;
+  padding-right: 5vw; */
+  /* padding-bottom: 5vh; */
 }
 
 .App-body {
@@ -13,9 +13,13 @@
 }
 
 .App-logo {
+  padding-top: 10vh;
+}
+
+.App-logo-pic {
   animation: App-logo-spin infinite 40s linear;
   width: 50vw;
-  padding: 5%;
+  /* padding-top: 20vh; */
   z-index: 1;
   position: relative;
 }
@@ -30,23 +34,31 @@
 }
 
 .App-footer {
-  padding-top: 50vh;
-  padding-bottom: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+  background-color: #ff9469;
 }
 
 .About-me {
+  padding-top: 10vh;
   padding-left: 20vw;
   padding-right: 20vw;
+  background-color: #ff6969;
 }
 
 .About-me p {
   padding-top: 10vh;
   padding-bottom: 40vh;
   font-size: 18px;
+  margin: 0;
 }
 
 .Projects-worked-on {
-  padding-top: 20vh;
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  background-color: #ffa269;
 }
 
 .Projects-worked-on h3 {

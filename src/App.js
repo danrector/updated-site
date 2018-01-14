@@ -6,8 +6,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <img src={color1} className="App-logo" alt="logo" />
-
+        <div className="App-logo">
+          <img src={color1} className="App-logo-pic" alt="logo" />
+        </div>
         <div className="App-body">
           <div className="About-me">
             <h1>About</h1>
@@ -27,7 +28,6 @@ class App extends Component {
             </h3>
           </div>
         </div>
-
         <div className="App-footer">
           <ul>
             <li ><a target="_blank" href="https://soundcloud.com/drector1">Music</a></li>
